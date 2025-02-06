@@ -10,6 +10,6 @@ document.getElementById('postBtn').addEventListener('click', function() {
       document.getElementById('postsContainer').prepend(post);
       postInput.value = '';
     } else {
-      alert('Please write something before posting!');
+      alert('');
     }
   });
