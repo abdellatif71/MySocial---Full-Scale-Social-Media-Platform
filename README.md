@@ -13,4 +13,3 @@ Responsive Design für verschiedene Geräte
 
 Backend-API mit Node.js und Express
 
-Datenbankintegration mit MariaDB
