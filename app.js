@@ -10,6 +10,6 @@ document.getElementById('postBtn').addEventListener('click', function() {
       document.getElementById('postsContainer').prepend(post);
       postInput.value = '';
     } else {
-      alert('');
+      alert('git commit -m "first commit');
     }
   });
