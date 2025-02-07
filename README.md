@@ -1,16 +1,20 @@
+Sure, here is the translation of your README.md to English:
+
+```
 MySocial - Full-Scale Social Media Platform
 MySocial - Full-Scale Social Media Platform
 
-MySocial ist eine einfache soziale Medienplattform, die mit HTML, CSS, JavaScript, Node.js und MariaDB entwickelt wurde. Dieses Projekt ermöglicht es Benutzern, Beiträge zu erstellen, anzuzeigen und später auch zu kommentieren und zu liken.
+MySocial is a simple social media platform developed with HTML, CSS, JavaScript, Node.js, and MariaDB. This project allows users to create, view, and[...]
 
 Features
 
-Benutzerregistrierung und Login (in Entwicklung)
+User registration and login (in development)
 
-Erstellen und Anzeigen von Beiträgen
+Create and view posts
 
-Responsive Design für verschiedene Geräte
+Responsive design for various devices
 
-Backend-API mit Node.js und Express
+Backend API with Node.js and Express
 
-Datenbankintegration mit MariaDB
+Database integration with MariaDB
+```
