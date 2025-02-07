@@ -14,7 +14,7 @@ Create and view posts
 
 Responsive design for various devices
 
-Backend API with Node.js and Express
+
 
 
 ```
